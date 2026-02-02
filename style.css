@@ -1,0 +1,33 @@
+.parent{
+    display: flex;
+    width: 70%;
+    height: 200px;
+    background-color: red;
+    overflow-x: hidden; 
+}
+.slide{
+   display: flex;
+    width: 70%;
+    height: 200px;
+    
+}
+img{
+    height: 190px;
+}
+.fa-less-than{
+    position: relative;
+    font-size: 30px;
+    color: white;
+    font-weight: 900;
+    bottom: 20%;
+    left: 2%;
+}
+.fa-greater-than{
+    position: relative;
+    font-size: 30px;
+    color: white;
+    font-weight: 900;
+    left: 60%;
+    bottom: 20%;
+
+}
